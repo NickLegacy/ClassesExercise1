@@ -1,0 +1,14 @@
+C:\Users\nickl\source\repos\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.exe
+C:\Users\nickl\source\repos\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.deps.json
+C:\Users\nickl\source\repos\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.runtimeconfig.json
+C:\Users\nickl\source\repos\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.runtimeconfig.dev.json
+C:\Users\nickl\source\repos\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.dll
+C:\Users\nickl\source\repos\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.pdb
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.csproj.AssemblyReference.cache
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.AssemblyInfoInputs.cache
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.AssemblyInfo.cs
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.dll
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.pdb
+C:\Users\nickl\source\repos\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.genruntimeconfig.cache
